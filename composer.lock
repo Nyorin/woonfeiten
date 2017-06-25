@@ -4,60 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "acd31147e2ac283c06c4c17400c5be3a",
+    "content-hash": "96098e473b028cdb2529580554a1ae3e",
     "packages": [
-        {
-            "name": "brainstormit/bitbuilder",
-            "version": "v1.3",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/BrainstormIT/BITbuilder.git",
-                "reference": "ae7b59c7a2d6ec49979fc16a6aafec3ae3b90d4f"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/BrainstormIT/BITbuilder/zipball/ae7b59c7a2d6ec49979fc16a6aafec3ae3b90d4f",
-                "reference": "ae7b59c7a2d6ec49979fc16a6aafec3ae3b90d4f",
-                "shasum": ""
-            },
-            "require": {
-                "php": ">=5.0.0"
-            },
-            "require-dev": {
-                "php": ">=5.0.0"
-            },
-            "type": "library",
-            "autoload": {
-                "classmap": [
-                    "src/core/Builder.php",
-                    "src/core/Query.php",
-                    "src/helpers/Arr.php",
-                    "src/helpers/Database.php",
-                    "src/helpers/Str.php"
-                ]
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Dennis Slimmers",
-                    "email": "dennis@brainstormit.nl"
-                },
-                {
-                    "name": "Bas van der Ploeg",
-                    "email": "bas@brainstormit.nl"
-                },
-                {
-                    "name": "Xander Dijk",
-                    "email": "xander@brainstormit.nl"
-                }
-            ],
-            "description": "Easy to read querybuilder with a short learning curve!",
-            "homepage": "https://github.com/BrainstormIT/BITbuilder",
-            "time": "2017-04-24T12:47:03+00:00"
-        },
         {
             "name": "dnoegel/php-xdg-base-dir",
             "version": "0.1",
