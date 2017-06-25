@@ -24,11 +24,18 @@
                 font-family: 'Patrick Hand SC', cursive;
                 color: white;
             }
+
+            .sub {
+                font-size: 2em;
+                font-family: 'Patrick Hand SC', cursive;
+                color: white;
+            }
         </style>
     </head>
     <body>
         <div class="container text-center">
            <h1 class="title"><strong>Woonfeiten</strong></h1>
+           <h4 class="sub">Hier vind u alle informatie over de woningmarkt!</h4>
         </div>
     </body>
 </html>
